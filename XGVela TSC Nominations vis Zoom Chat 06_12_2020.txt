@@ -1,0 +1,37 @@
+08:42:35	 From  zoom-new_projects LFN New projects : no audio
+08:42:41	 From  zoom-new_projects LFN New projects : can you hear me?
+08:42:45	 From  Zhao Qihui : again
+08:42:47	 From  Zhao Qihui : no 
+08:44:47	 From  zoom-new_projects LFN New projects : lost your audio again
+08:50:34	 From  Zhao Qihui : cannot hear me again?
+08:50:38	 From  Zhao Qihui : I can hear you
+08:57:37	 From  zoom-new_projects LFN New projects : your audio is robotic
+08:58:36	 From  Zhao Qihui : i cannot find the perfect network to use
+09:03:44	 From  Zhao Qihui : I think it is acceptable for now
+09:03:55	 From  Hu Jie (ZTE) : ok
+09:04:01	 From  Zhao Qihui : but the problem is, TSC should have some controbution
+09:04:12	 From  Zhao Qihui : how do we measure this?
+09:04:40	 From  Zhiqiang Yu : You mean TSC members
+09:05:58	 From  Zhao Qihui : Sure, let discuss it
+09:06:14	 From  Hu Jie (ZTE) : Wang Changjin，ZTE
+09:06:57	 From  Zhao Qihui : Qihui Zhao, CMCC
+09:11:05	 From  Gergely Csatari : gergely.csatari@nokia.com
+09:12:39	 From  Shane Wang : Huifeng Le, Intel
+09:12:44	 From  Ming Xia : Anders Fagerlind, Ericsson
+09:13:57	 From  Zhao Qihui : Huafeng He, huawei
+09:14:39	 From  Xiaohua Zhang : Xiaohua Zhang, Wind River
+09:23:12	 From  Gergely Csatari : +1 from my side
+09:23:28	 From  Hu Jie (ZTE) : +1 from ZTE
+09:23:35	 From  Ming Xia : +1 from Ericsson
+09:24:08	 From  xuxia zhong : We have accomplished the logo design and website design，I will email the information to LFN next Monday.
+09:25:05	 From  Zhao Qihui : sound like my voice cannot get in again, sorry
+09:30:03	 From  xuxia zhong : we intend to discuss the scope of XGVela in this meeting, more details please refer to https://github.com/XGVela/XGVela/blob/master/xgvela-20200612.pdf
+09:44:14	 From  Gergely Csatari : CNTT RA2
+09:44:49	 From  Gergely Csatari : https://github.com/cntt-n/CNTT/blob/master/doc/ref_arch/kubernetes/chapters/chapter01.md
+09:46:26	 From  Zhiqiang Yu : Yes. This week I have talked with Taylor about this project. Gergely, could you please introduce more about our project to him.
+09:47:01	 From  Zhiqiang Yu : Liu Ying and I just emailed him a simple introduction
+09:49:12	 From  Zhiqiang Yu : I mean in the CNCF TUG meeting and CNTT RA2 meeting.
+09:49:20	 From  Gergely Csatari : CNTT RA2
+09:54:51	 From  Ying Liu : i am not sure that can’t can do all the requirements which is from telco paas
+09:55:28	 From  Ying Liu : cntt is more likely define nfv caas
+09:55:42	 From  Ying Liu : or should we define the interface between k8s and telco paas?
