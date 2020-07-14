@@ -1,1 +1,0 @@
-# XGVela Telco PaaS Definition
