@@ -1,5 +1,5 @@
 # XGVela Telco PaaS Definition
-|#|Functions|Description|Software (project name & version)|Telco enhancement point|Priority|Tag|Committer|
+|#|Functions|Description|Software (project name & version)|Telco enhancement point|Tag|Priority|Committer|
 |---|---|---|---|---|---|---|---|
 |1|Container||||Infrastructure||
 |2|Orchestration||||Infrastructure||
