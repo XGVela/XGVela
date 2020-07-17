@@ -1,1 +1,0 @@
-This file is to define basic PaaS frame required by XGVela in order to provide PaaS service. Contents would involve PaaS provisioning, PaaS management, observation and maintainance about platform itself.
