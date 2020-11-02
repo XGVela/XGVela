@@ -1,0 +1,43 @@
+Tracking
+
+Author(s):
+Name: 
+Email:
+
+
+Version:
+
+ 
+{Insert Document TITLE here}
+
+Overview
+
+Describe briefly what are you addressing in this document and why do we need it .. also where it 
+Fits in the xGVela block diagram (green vs yellow section or both)
+
+Requirements
+
+Detail all the requirements for this topic wrt to Telco usage of this feature and also list the feature/functionality requirements
+
+Architecture 
+
+Define what already exists to meet those requirements. If everything we need does not exist anywhere then state as such that this needs to be developed
+
+Existing Solution
+
+Proposed Architecture - high level
+
+Pros and Cons 
+of the proposed approach
+
+Gaps 
+
+List the gaps in the current architecture
+Analysis of where these gaps can be addressed
+
+Summary
+
+
+
+
+ 
