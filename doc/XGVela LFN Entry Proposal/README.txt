@@ -12,9 +12,6 @@ Community input into the document is required. Since we are using GitHub version
 5.	Do not delete any files from the folder.
 6.	I will incorporate updates and contributions into a master document and maintain version control.
 
-Lets discuss on our Friday call.
-
-This email has been turned into a README and placed in the document folder for reference.
 
 Best,
 -Louis
