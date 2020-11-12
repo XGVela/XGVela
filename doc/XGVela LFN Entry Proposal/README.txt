@@ -1,6 +1,6 @@
 Hello XGVela’s,
 
-A draft of “XGVela LFN Entry Proposal” has been placed on GitHub: https://github.com/XGVela/XGVela/tree/master/doc/XGVela%20LFN%20Entry%20Proposal.
+A draft of “XGVela LFN Entry Proposal” has been placed in GitHub folder: https://github.com/XGVela/XGVela/tree/master/doc/XGVela%20LFN%20Entry%20Proposal.
 This document is required by the LFN Technical Advisory Council (TAC) for any project to be considered for inclusion under the LFN umbrella.
 
 Community input into the document is required. Since we are using GitHub version control is mostly manual, as such, here are the ground rules for contributing to the document:
@@ -10,7 +10,7 @@ Community input into the document is required. Since we are using GitHub version
 3.	Update/contribute content to your local file.
 4.	When ready use “Add file” in the folder above to add your renamed file to the folder.
 5.	Do not delete any files from the folder.
-6.	I will incorporate input/contributions into a master document and maintain version control.
+6.	I will incorporate updates and contributions into a master document and maintain version control.
 
 Lets discuss on our Friday call.
 
